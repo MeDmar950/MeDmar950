@@ -1,26 +1,29 @@
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey, nice to see you.</h1>
+### Hi there, I'm Dmar! 👋
+<a href="https://discord.gg/RXxxdnJ">
+  <img align="left" alt="Discord Server" width="16px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />
+</a>
+ <a href="https://github.com/MeDmar950">
+  <img align="left" alt="Dmar Github's" width="16px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+</a>
 
-<p><b>Welcome to my page!</b> </br> I'm Ziad, you can call me Dmar. Hobby developer, mainly developing in JS . Trying to improve JS skills. I like making things! Through code, all things are possible! I'm from <img src="https://image.flaticon.com/icons/svg/323/323324.svg" width="13"/> <b>Egypt</b>, currently living in <img src="https://image.flaticon.com/icons/svg/190/190471.svg" width="13"/> <b>Egypt, Aswan</b>. </p>
+<br />
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=MeDmar950&show_icons=true&icon_color=805AD5&text_color=718096&bg_color=ffffff&hide_title=true" />
+I am a programmer from Egypt/Aswan
+- 💬 Ask me about anything [here](https://discord.gg/RXxxdnJ)
+- 📫 Add Me On Discord? Me » Dmar#1969
+- 🥅 2020 Goals: Open Source Projects
 
-<h3>Some things I code with</h3>
-<p>
-  <img alt="Github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
+**Languages and Tools:** &nbsp;
+ <code><img height="15" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+ 
 
-  <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
-
-  <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
-
-  <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-  
-  <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
-  <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-43853d?style=flat-square&logo=Node.js&logoColor=white" />
-
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MeDmar950&theme=radical&hide_langs_below=1&layout=compact" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=MeDmar950&show_icons=true&theme=radical&line_height=21" alt="Ohidur's github stats"/>
 </p>
-<h3>Where to find me :-</h3>
-<p>
-<a href="https://github.com/MeDmar950" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?style=for-the-badge&logo=Github&logoColor=white" /></a>
-<a href="https://discord.com/users/599351862692544532" target="_blank"><img alt="Discord" src="https://img.shields.io/badge/-Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" /></a>
 
-</p>
+*PS: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github*
+
+<br />
+
+“Any fool can write code that a computer can understand. Good programmers write code that humans can understand.” — Martin Fowler
