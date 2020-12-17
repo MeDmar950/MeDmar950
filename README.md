@@ -9,8 +9,8 @@
 <br />
 
 I am a programmer from Egypt/Aswan
-- 💬 Ask me about anything [here](https://discord.gg/RXxxdnJ)
-- 📫 Add Me On Discord? Me » Dmar#1969
+- 💬 Ask me about anything [here](https://discord.gg/3R52hz2bfp)
+- 📫 Add Me On Discord? Dmar.#9777
 - 🥅 2020 Goals: Open Source Projects
 
 **Languages and Tools:** &nbsp;
